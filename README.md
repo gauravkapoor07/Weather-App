@@ -2,7 +2,7 @@
 A simple weather application using the openweather API.
 
 # 📸 Screenshot of the weather application
-[image](https://drive.google.com/file/d/1Nwn_Qdl38172PkV7y4Gik23R1gB7GcMO/view?usp=sharing)
+[image](https://github.com/gauravkapoor07/Weather-App/blob/main/images/Weather%20app%20image.png)
 
 # 🛠️ Technologies Used
 💬 HTML
