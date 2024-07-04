@@ -1,2 +1,27 @@
-# Weather-App
-Weather app created with HTML CSS and javascript.
+# 🌤️ WeatherApplication
+A simple weather application using the openweather API.
+
+# 📸 Screenshot of the weather application
+[image](https://drive.google.com/file/d/1Nwn_Qdl38172PkV7y4Gik23R1gB7GcMO/view?usp=sharing)
+
+# 🛠️ Technologies Used
+💬 HTML
+🎨 CSS
+📜 JavaScript
+🌐 OpenWeatherMap API
+
+
+# STEPS TO RUN THE CODE: 
+1. Go to https://openweathermap.org
+2. Create a free account
+3. Navigate to the My API keys section under your account
+4. Generate a key
+5. Copy that key to clipboard
+6. Insert that key into the required variable in the script.js file
+7. Enjoy the Weather App✨!
+
+# 🪪 License
+This project is licensed under the MIT License.
+
+
+
