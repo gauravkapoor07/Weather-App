@@ -2,7 +2,8 @@
 A simple weather application using the openweather API.
 
 # 📸 Screenshot of the weather application
-[image](https://github.com/gauravkapoor07/Weather-App/blob/main/images/Weather%20app%20image.png)
+![Weather app image](https://github.com/gauravkapoor07/Weather-App/assets/165601078/40a0c847-d7b0-44b0-801d-b93acb8ce701)
+
 
 # 🛠️ Technologies Used
 💬 HTML
